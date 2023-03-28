@@ -30,6 +30,8 @@ After submitting the form, the plugin will make an AJAX call to calculate the cu
 ## Video Example
 
 Please see this video example for a demonstration of how the plugin works:
+![Screen Recording 2023-03-28 at 11 47 12](https://user-images.githubusercontent.com/67932454/228328805-69fc61a8-78b5-475e-9d47-a2d6274766b0.gif)
+
 
 ## Support
 
