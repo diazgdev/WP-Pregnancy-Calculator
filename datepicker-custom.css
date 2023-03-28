@@ -1,0 +1,28 @@
+.ui-datepicker .ui-datepicker-header {
+  background-color: #7f54b3;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.ui-datepicker .ui-state-default {
+  color: #2a2a2a;
+}
+
+.ui-datepicker .ui-state-active {
+  background-color: #2a2a2a;
+  color: #fff;
+}
+
+.ui-datepicker .ui-state-hover {
+  background-color: #4a4a4a;
+  color: #fff;
+}
+
+#ui-datepicker-div {
+  border-radius: 8px;
+}
+
+.ui-state-default {
+  border: 1px solid transparent !important;
+  border-radius: 6px;
+}
